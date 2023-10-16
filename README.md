@@ -1,5 +1,3 @@
- Sure, here's an outline of the project you described:
-
 Project Title: PDF Summarizer and Quizzer
 
 Description: A web application that allows users to upload a PDF file and receive a summary of the content, along with quizzes related to the topic. The application should be able to analyze the PDF file, extract relevant information, and generate a concise summary and quizzes.
