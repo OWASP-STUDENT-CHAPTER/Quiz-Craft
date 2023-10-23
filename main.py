@@ -15,7 +15,7 @@ import streamlit as st
 
 def loadLLM():
     llm = CTransformers(
-        model="mistral-7b-instruct-v0.1.Q2_K.gguf",
+        model="mistral-7b-instruct-v0.1.Q3_K_S.gguf",
         model_type='mistral',
         max_new_tokens = 1048,
         temperature = 0.2
